@@ -1,4 +1,4 @@
-# First Repository#
+# First Repository #
 ## By: See Rios ##
 
 **This is Bolded** This is not bolded. *Italic* 
